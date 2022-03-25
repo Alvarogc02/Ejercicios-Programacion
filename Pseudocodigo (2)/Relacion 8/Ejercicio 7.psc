@@ -1,0 +1,12 @@
+Algoritmo Ejercicio 7
+	Definir fila, columna, lado como entero
+	Escribir " Introduce el lado del cuadrado"
+	Leer lado
+	Para fila=1  Hasta lado Con Paso 1 Hacer
+		Para columna=1 Hasta lado Con Paso 1 Hacer
+			Escribir Sin Saltar " * "
+		Fin Para
+		Escribir""
+	Fin Para
+	
+FinAlgoritmo
