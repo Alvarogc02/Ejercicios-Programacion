@@ -1,0 +1,7 @@
+Algoritmo Ejercicio3
+	Definir x Como Real
+		Escribir "Introduce un número para calcular su raíz cúbica"
+		Leer x
+		Escribir "La raíz cúbica de ",x," es ", x^(1/3)
+
+FinAlgoritmo
